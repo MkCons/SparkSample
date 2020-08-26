@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e51805b-c2a4-479c-a3d9-614bc7d000a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gdehOtGfOuXr7uZM1SIoq6Ui7e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="/usr/spark-2.4.1/python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.movie_recs_ml">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SparkSample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie_recs_ml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SparkSample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie_recs_ml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.movie_recs_ml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e51805b-c2a4-479c-a3d9-614bc7d000a7" name="Default Changelist" comment="" />
+      <created>1598449015689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598449015689</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="52" width="734" height="641" key="#Inspections" timestamp="1598449169154">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="141" y="52" width="734" height="641" key="#Inspections/0.0.1024.742@0.0.1024.742" timestamp="1598449169154" />
+    <state x="277" y="116" width="461" height="514" key="FileChooserDialogImpl" timestamp="1598449135240">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="277" y="116" width="461" height="514" key="FileChooserDialogImpl/0.0.1024.742@0.0.1024.742" timestamp="1598449135240" />
+    <state x="367" y="271" key="Github.ShareDialog" timestamp="1598452579359">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="367" y="271" key="Github.ShareDialog/0.0.1024.742@0.0.1024.742" timestamp="1598452579359" />
+    <state width="1003" height="163" key="GridCell.Tab.0.bottom" timestamp="1598452104162">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.bottom/0.0.1024.742@0.0.1024.742" timestamp="1598452104162" />
+    <state width="1003" height="163" key="GridCell.Tab.0.center" timestamp="1598452104159">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.center/0.0.1024.742@0.0.1024.742" timestamp="1598452104159" />
+    <state width="1003" height="163" key="GridCell.Tab.0.left" timestamp="1598452104158">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.left/0.0.1024.742@0.0.1024.742" timestamp="1598452104158" />
+    <state width="1003" height="163" key="GridCell.Tab.0.right" timestamp="1598452104159">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state width="1003" height="163" key="GridCell.Tab.0.right/0.0.1024.742@0.0.1024.742" timestamp="1598452104159" />
+    <state x="16" y="6" width="992" height="734" key="SettingsEditor" timestamp="1598451002970">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="16" y="6" width="992" height="734" key="SettingsEditor/0.0.1024.742@0.0.1024.742" timestamp="1598451002970" />
+    <state x="253" y="271" width="542" height="214" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598449505359">
+      <screen x="0" y="0" width="1024" height="742" />
+    </state>
+    <state x="253" y="271" width="542" height="214" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1024.742@0.0.1024.742" timestamp="1598449505359" />
+  </component>
+</project>
