@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e51805b-c2a4-479c-a3d9-614bc7d000a7" name="Default Changelist" comment="" />
+    <list default="true" id="6e51805b-c2a4-479c-a3d9-614bc7d000a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_recs_ml.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie_recs_ml.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gdehOtGfOuXr7uZM1SIoq6Ui7e" />
   <component name="ProjectViewState">
@@ -111,10 +117,11 @@
       <screen x="0" y="0" width="1024" height="742" />
     </state>
     <state width="1003" height="163" key="GridCell.Tab.0.right/0.0.1024.742@0.0.1024.742" timestamp="1598452104159" />
-    <state x="16" y="6" width="992" height="734" key="SettingsEditor" timestamp="1598451002970">
-      <screen x="0" y="0" width="1024" height="742" />
+    <state x="30" y="32" width="992" height="734" key="SettingsEditor" timestamp="1602320617782">
+      <screen x="0" y="24" width="1920" height="943" />
     </state>
     <state x="16" y="6" width="992" height="734" key="SettingsEditor/0.0.1024.742@0.0.1024.742" timestamp="1598451002970" />
+    <state x="30" y="32" key="SettingsEditor/0.24.1920.943@0.24.1920.943" timestamp="1602320617782" />
     <state x="253" y="271" width="542" height="214" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598449505359">
       <screen x="0" y="0" width="1024" height="742" />
     </state>
