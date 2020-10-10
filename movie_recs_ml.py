@@ -33,7 +33,8 @@ if __name__ == "__main__":
     logger = sc._jvm.org.apache.log4j
     logger.LogManager.getLogger("org").setLevel(logger.Level.WARN)
 
-    uri = "mongodb://localhost:27017/movies.movie_ratings?readPreference=primaryPreferred"
+    # uri = "mongodb://localhost:27017/movies.movie_ratings?readPreference=primaryPreferred"
+    uri = "mongodb://mongoadmin:pass1234@localhost:27017/movies.movie_ratings?readPreference=primaryPreferred&authSource=admin"
 
     # Read movies collection and select only fields we care about
     sqlContext = SQLContext(sc)
